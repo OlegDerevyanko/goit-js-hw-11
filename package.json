@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lenaderevyanko.github.io/goit-js-hw-11/",
+  "homepage": "https://olegderevyanko.github.io/goit-js-hw-11/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LenaDerevyanko/goit-js-hw-11.git"
+    "url": "git+https://github.com/OlegDerevyanko/goit-js-hw-11.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Oleg Derevyanko <azru2508@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LenaDerevyanko/goit-js-hw-11/issues"
+    "url": "https://github.com/OlegDerevyanko/goit-js-hw-11/issues"
   },
   "dependencies": {
     "axios": "^1.2.0",
